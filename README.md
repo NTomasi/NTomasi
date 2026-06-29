@@ -1,93 +1,109 @@
 # Hi 👋, I'm Nicolas Tomasi
 
-🎓 **Computer Science Student**
-🤖 **Aspiring AI Engineer**
-🇧🇷 Brazil
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+AI+Engineer;Always+Learning+Something+New" />
+</p>
 
-I'm a Computer Science student passionate about software development, artificial intelligence, and building useful projects.
-
-Currently, I'm focused on strengthening my programming fundamentals while exploring AI, algorithms, and software engineering. I enjoy learning by creating real-world projects and continuously improving my skills.
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://github.com/NTomasi">
-    <img src="https://img.shields.io/badge/GitHub-NTomasi-181717?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NTomasi&label=Profile%20Views&color=3b82f6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+## 👨‍💻 About Me
 
-- 🤖 Learn Artificial Intelligence and Machine Learning
-- 💻 Become a Software Engineer
-- 🧠 Master Data Structures & Algorithms
-- ⚙️ Build useful real-world projects
-- 🚀 Improve problem-solving skills
-- 📚 Learn new technologies every semester
+🎓 Computer Science student
 
----
+🤖 Future Artificial Intelligence Engineer
 
-## 🛠 Currently Learning
+💻 Passionate about programming and technology
 
-### Programming
+📚 Currently learning C, Algorithms, Data Structures and Mathematics
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+🚀 Building projects to improve my software engineering skills
 
-### Interested In
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🇧🇷 Brazil
 
 ---
 
-## 📚 Currently Studying
-
-- Computer Science
-- Programming in C
-- Linear Algebra
-- Analytical Geometry
-- Algorithms
-- Data Structures
-- Software Development Fundamentals
-
----
-
-## 🚀 Projects
-
-I'm building projects to improve my programming skills and document my learning journey.
-
-Some areas I plan to explore:
+## 🎯 Current Focus
 
 - 🤖 Artificial Intelligence
-- 💻 Desktop Applications
-- 🌐 Web Development
-- 📊 Data Analysis
-- 🛠 Automation
-- 📱 Useful tools
+- 🧠 Machine Learning
+- 💻 Software Engineering
+- ⚙️ Algorithms
+- 📊 Data Structures
+- 🐧 Linux
+
+---
+
+## 🛠 Tech Stack
+
+### Current
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
+</p>
+
+### Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,mysql" />
+</p>
+
+### Future
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws" />
+</p>
+
+---
+
+## 📚 Current Roadmap
+
+- ✅ C
+- 🔄 Algorithms
+- 🔄 Data Structures
+- ⏳ Python
+- ⏳ Object-Oriented Programming
+- ⏳ Databases
+- ⏳ Artificial Intelligence
+- ⏳ Machine Learning
+- ⏳ Deep Learning
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NTomasi&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NTomasi&layout=compact&theme=tokyonight" />
-</p>
+> *(Descomente quando o serviço voltar ao normal.)*
+
+<!--
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NTomasi&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTomasi&layout=compact&theme=tokyonight" />
+-->
 
 ---
 
-## 💭 Philosophy
+## 📈 GitHub Activity
 
-> *"Every expert was once a beginner who never stopped learning."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NTomasi&theme=tokyo-night" />
+
+---
+
+## 🏆 Goals for 2026
+
+- 📚 Become proficient in C
+- 🐍 Master Python
+- 🤖 Build AI projects
+- 💼 Get my first internship
+- 🌐 Create a strong GitHub portfolio
+- 🚀 Contribute to open-source projects
+
+---
+
+## 💭 Quote
+
+> *"Discipline beats motivation. Small improvements every day create extraordinary results."*
 
 ---
 
