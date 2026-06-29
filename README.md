@@ -1,12 +1,8 @@
 # Hi 👋, I'm Nicolas Tomasi
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+AI+Engineer;Always+Learning+Something+New" />
-</p>
+### Computer Science Student • Software Development • Artificial Intelligence
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NTomasi&label=Profile%20Views&color=3b82f6&style=for-the-badge" />
-</p>
+I'm passionate about technology and enjoy building projects that help me grow as a developer. Currently, I'm focused on strengthening my programming fundamentals while preparing for a career in Artificial Intelligence.
 
 ---
 
